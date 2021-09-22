@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lootbox", "Advanced Exam - 22 Feb 2020\Lootbox.csproj", "{1670D1E5-39FA-4BC4-B3D9-EC4E9D225200}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Guild", "Guild\Guild.csproj", "{24D87DC2-6D05-44AF-AEA2-522A98C877C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Re-Volt", "Re-Volt\Re-Volt.csproj", "{41F93C6F-C8E9-4374-B581-A9C7FE165595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1670D1E5-39FA-4BC4-B3D9-EC4E9D225200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1670D1E5-39FA-4BC4-B3D9-EC4E9D225200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1670D1E5-39FA-4BC4-B3D9-EC4E9D225200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1670D1E5-39FA-4BC4-B3D9-EC4E9D225200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D87DC2-6D05-44AF-AEA2-522A98C877C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D87DC2-6D05-44AF-AEA2-522A98C877C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D87DC2-6D05-44AF-AEA2-522A98C877C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D87DC2-6D05-44AF-AEA2-522A98C877C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41F93C6F-C8E9-4374-B581-A9C7FE165595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F93C6F-C8E9-4374-B581-A9C7FE165595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F93C6F-C8E9-4374-B581-A9C7FE165595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F93C6F-C8E9-4374-B581-A9C7FE165595}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB55D78E-864C-4B7E-872E-11340D8EE990}
+	EndGlobalSection
+EndGlobal

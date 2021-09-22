@@ -1,0 +1,13 @@
+C:\Users\Ace\source\repos\Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.exe
+C:\Users\Ace\source\repos\Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.deps.json
+C:\Users\Ace\source\repos\Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.json
+C:\Users\Ace\source\repos\Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.dev.json
+C:\Users\Ace\source\repos\Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.dll
+C:\Users\Ace\source\repos\Advanced Exam - 22 Feb 2020\Guild\bin\Debug\netcoreapp3.0\Guild.pdb
+C:\Users\Ace\source\repos\Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.csprojAssemblyReference.cache
+C:\Users\Ace\source\repos\Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfoInputs.cache
+C:\Users\Ace\source\repos\Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfo.cs
+C:\Users\Ace\source\repos\Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.CoreCompileInputs.cache
+C:\Users\Ace\source\repos\Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.dll
+C:\Users\Ace\source\repos\Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.pdb
+C:\Users\Ace\source\repos\Advanced Exam - 22 Feb 2020\Guild\obj\Debug\netcoreapp3.0\Guild.genruntimeconfig.cache
