@@ -1,0 +1,13 @@
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.deps.json
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.AssemblyReference.cache
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfo.cs
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CopyComplete
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.pdb

@@ -1,0 +1,9 @@
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.deps.json
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Models\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.AssemblyInfoInputs.cache
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.AssemblyInfo.cs
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.csproj.CoreCompileInputs.cache
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\Advanced-Querying-BookShop\BookShop.Models\obj\Debug\netcoreapp3.1\BookShop.Models.pdb
