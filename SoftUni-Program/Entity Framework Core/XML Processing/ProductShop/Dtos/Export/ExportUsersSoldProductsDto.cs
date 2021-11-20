@@ -8,14 +8,17 @@ namespace ProductShop.Dtos.Export
     [XmlType("User")]
     public class ExportUsersSoldProductsDto
     {
-        [XmlElement("firstName")]
+        [XmlAttribute("firstName")]
         public string FirstName { get; set; }
 
-        [XmlElement("lastName")]
+        [XmlAttribute("lastName")]
         public string LastName { get; set; }
 
+        [XmlAttribute("Age")]
+        public int? Age { get; set; }
+
         [XmlArray("soldProducts")]
-        public ProductExportDto[] SoldProducts { get; set; }
+        public SoldProductsDto[] SoldProducts { get; set; }
 
     }
 }

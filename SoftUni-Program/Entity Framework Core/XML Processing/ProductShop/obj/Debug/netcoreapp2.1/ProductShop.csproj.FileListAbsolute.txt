@@ -11,3 +11,4 @@ D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\XML Pro
 D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
 D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
 D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\XML Processing\ProductShop\bin\Debug\netcoreapp2.1\Datasets\users.xml
+D:\GitHub\SoftUni-.Net-Development\SoftUni-Program\Entity Framework Core\XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.AssemblyReference.cache
